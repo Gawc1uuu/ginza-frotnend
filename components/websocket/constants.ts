@@ -1,0 +1,2 @@
+export const HEALTH_CHECK_INTERVAL = 2000;
+export const HEALTH_CHECK_TIMEOUT = 3000;
